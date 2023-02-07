@@ -1,4 +1,4 @@
-on: [pull_request]
+on: [issue_comment]
 
 jobs:
   check_dependencies:
